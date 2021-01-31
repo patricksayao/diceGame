@@ -1,0 +1,49 @@
+
+body {
+  background-color: #214151;
+  text-align: center;
+}
+
+/********  top section   ******/
+
+.container {
+  margin-top: 3rem;
+  padding: 4rem;
+}
+
+h1 {
+  color: #4ecca3;
+  font-family: 'Lobster', cursive;
+  font-size: 8rem;
+  text-shadow: 5px 0 #232931;
+}
+
+/**** player section ****/
+
+p {
+  color: #4ecca3;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+}
+
+.dice {
+  display: inline-block;
+  padding: 3rem 3rem 0;
+}
+
+/*** footer section ***/
+
+footer {
+  margin-bottom: 6rem;
+}
+
+a {
+  color: #fff;
+  font-family: 'Indie Flower', cursive;
+  margin: 3rem;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
+}
